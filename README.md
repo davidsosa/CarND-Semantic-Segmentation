@@ -87,7 +87,10 @@ The project labels most pixels of roads close to the best solution. The model do
 
 A solution that is close to best would label at least 80% of the road and label no more than 20% of non-road pixels as road. *** Done ***
 
-![alt text](./um_0000000.png "Example 1")
+![alt text](./inference_png/um_000000.png "Example 1")
 
+![alt text](./inference_png/um_000081.png "Example 1")
+
+![alt text](./inference_png/uu_000099.png "Example 1")
 
 
